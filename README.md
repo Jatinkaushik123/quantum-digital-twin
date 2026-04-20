@@ -9,8 +9,12 @@ An interactive simulation of cryogenic cooling systems used in quantum computing
 - Future temperature prediction
 - Interactive dashboard (Streamlit)
 
+--- 
+
 ## 🧠 Concept
 Quantum computers require ultra-low temperatures. This project simulates cryogenic behavior and predicts system stability using a digital twin approach.
+
+---
 
 ## 📌 What This Project Does
 
@@ -19,6 +23,8 @@ Quantum computers require ultra-low temperatures. This project simulates cryogen
 - Displays a **real-time animated cooling graph**
 - Predicts **future temperature behavior** using machine learning
 - Provides **system stability insights and warnings**
+
+---
 
 ## 🧠 Why This Project Matters
 
@@ -30,8 +36,12 @@ This project demonstrates how a **digital twin approach** can:
 - Monitor stability
 - Predict failures before they happen
 
+---
+
 ## 🌐 Live Demo 
  https://quantum-digital-twin.streamlit.app/
+
+---
 
 ## 🛠 Tech Stack
 - Python
@@ -39,11 +49,16 @@ This project demonstrates how a **digital twin approach** can:
 - NumPy
 - Matplotlib
 - Scikit-learn
-- 
+
+---
+
 ## ▶️ Run Locally
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
 ```
+
+---
+
 ## 📌 Author
 **Jatin Kaushik**

@@ -18,11 +18,11 @@ Quantum computers require ultra-low temperatures. This project simulates cryogen
 - NumPy
 - Matplotlib
 - Scikit-learn
-
+- 
 ## ▶️ Run Locally
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
-
+```
 ## 📌 Author
-Jatin Kaushik
+**Jatin Kaushik**

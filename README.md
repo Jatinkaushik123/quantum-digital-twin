@@ -30,6 +30,9 @@ This project demonstrates how a **digital twin approach** can:
 - Monitor stability
 - Predict failures before they happen
 
+## 🌐 Live Demo 
+ https://quantum-digital-twin.streamlit.app/
+
 ## 🛠 Tech Stack
 - Python
 - Streamlit

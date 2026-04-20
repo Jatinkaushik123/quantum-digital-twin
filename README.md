@@ -23,3 +23,6 @@ Quantum computers require ultra-low temperatures. This project simulates cryogen
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
+
+## 📌 Author
+Jatin Kaushik

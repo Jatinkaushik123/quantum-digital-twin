@@ -40,6 +40,7 @@ This project demonstrates how a **digital twin approach** can:
 
 ## 🌐 Live Demo 
  https://quantum-digital-twin.streamlit.app/
+ (I would suggest dont run this ... just run it locally)
 
 ---
 

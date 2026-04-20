@@ -12,6 +12,24 @@ An interactive simulation of cryogenic cooling systems used in quantum computing
 ## 🧠 Concept
 Quantum computers require ultra-low temperatures. This project simulates cryogenic behavior and predicts system stability using a digital twin approach.
 
+## 📌 What This Project Does
+
+- Simulates **multi-stage cryogenic cooling** (300K → 77K → 4K → near 0K)
+- Models **heat leak effects** to represent real-world instability
+- Displays a **real-time animated cooling graph**
+- Predicts **future temperature behavior** using machine learning
+- Provides **system stability insights and warnings**
+
+## 🧠 Why This Project Matters
+
+Quantum computers require extremely low temperatures for stable qubit operation.  
+Even small temperature fluctuations can cause errors.
+
+This project demonstrates how a **digital twin approach** can:
+- Visualize system behavior
+- Monitor stability
+- Predict failures before they happen
+
 ## 🛠 Tech Stack
 - Python
 - Streamlit
